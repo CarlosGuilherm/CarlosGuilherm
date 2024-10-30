@@ -6,7 +6,7 @@
   <img align="center" alt="cgui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cgui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="cgui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="cgui-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/148591566">
+  <img align="right" alt="cgui-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872833765817335821/1301164037853413426/Picsart_24-10-30_09-40-56-368.png?ex=67237af1&is=67222971&hm=a356795fecb3a0d21b5110f51fab8a79e737b58b395c77f4eaa10118d1e7ad98&">
 </div>
   
   ##
